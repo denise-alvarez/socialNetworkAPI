@@ -16,15 +16,31 @@ To install copy this repository into your system, then npm install and finally n
 
 ## Usage
 
-#### How to start the application’s server <br/>
- [Install](https://youtu.be/eRut2-B_TDc)
-#### GET routes for all users and all thoughts being tested in Insomnia.
-#### GET routes for a single user and a single thought being tested in Insomnia.
-#### POST, PUT, and DELETE routes for users and thoughts being tested in Insomnia.
-#### POST and DELETE routes for a user’s friend list being tested in Insomnia.
-#### POST and DELETE routes for reactions to thoughts being tested in Insomnia.
+### Walkthrough Video
+
+* A walkthrough video that demonstrates the functionality of the social media API must be submitted, and a link to the video should be included in your README file.
+
+  * The walkthrough video must show all of the technical acceptance criteria being met.
+
+  * The walkthrough video must demonstrate how to start the application’s server.
+
+  * The walkthrough video must demonstrate GET routes for all users and all thoughts being tested in Insomnia.
+
+  * The walkthrough video must demonstrate GET routes for a single user and a single thought being tested in Insomnia.
+
+  * The walkthrough video must demonstrate POST, PUT, and DELETE routes for users and thoughts being tested in Insomnia.
+
+  * Walkthrough video must demonstrate POST and DELETE routes for a user’s friend list being tested in Insomnia.
+
+  * Walkthrough video must demonstrate POST and DELETE routes for reactions to thoughts being tested in Insomnia. 
+
+### Video Links <br/>
+ [Install](https://youtu.be/rz7LMCc8vDY) <br/>
+ [ThoughtRoutes](https://youtu.be/vxRWu6v2Q9w) <br/>
+ [UserRoutes](https://youtu.be/sOX7HoBMKvI)
+
 
 ## Links
-[GitHub Link](https://github.com/denise-alvarez) <br/>
+[Denise Alvarez GitHub Link](https://github.com/denise-alvarez) <br/>
 [Find Repo Here](https://github.com/denise-alvarez/socialNetworkAPI.git)
 
