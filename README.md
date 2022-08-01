@@ -35,7 +35,7 @@ To install copy this repository into your system, then npm install and finally n
   * Walkthrough video must demonstrate POST and DELETE routes for reactions to thoughts being tested in Insomnia. 
 
 ### Video Links <br/>
- [Install](https://youtu.be/rz7LMCc8vDY) <br/>
+ [Start](https://youtu.be/rz7LMCc8vDY) <br/>
  [ThoughtRoutes](https://youtu.be/vxRWu6v2Q9w) <br/>
  [UserRoutes](https://youtu.be/sOX7HoBMKvI)
 
