@@ -67,9 +67,8 @@ router.put("/:userId/friends/:friendId", async (req, res) => {
     let newFriend = await User.findOneAndUpdate(
       { _id: req.params.userId },
       { $addToSet: { friends: req.params.friendId } },
-      { runValidators: true, new: true }
-    );
-    res.status(200).json(newFreind);
+      { runValidators: true, new: true })
+    res.status(200).json(newFriend);
   } catch (err) {
     console.log(err);
     res.status(500).json(err);

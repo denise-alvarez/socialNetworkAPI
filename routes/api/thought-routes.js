@@ -79,7 +79,7 @@ router.post("/:thoughtId/reactions", async (req, res) => {
       { $push: { reactions: newReaction._id },}
     );
     console.log(updatedThought);
-    res.status(200).json("hooray!!!");
+    res.status(200).json(newReaction);
   } catch (err) {
     console.log(err);
     res.status(500).json(err);
